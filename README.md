@@ -8,33 +8,6 @@ Terminal de hack interactif inspiré de l'univers GTA V — LifeInvader.
 3. **Grid Scanner** — Séquence dans une grille
 4. **Cypher Lock** — Cartes mélangées
 
-## Installation
-
-```bash
-npm install
-```
-
-## Développement local
-
-```bash
-npm run dev
-```
-
-## Déploiement GitHub Pages
-
-```bash
-git init
-git add .
-git commit -m "initial commit"
-git remote add origin https://github.com/TON_USERNAME/lifeinvader-terminal.git
-git branch -M main
-git push -u origin main
-npm run deploy
-```
-
-Le site sera sur : `https://TON_USERNAME.github.io/lifeinvader-terminal/`
-
----
 
 ## Astuce
 
